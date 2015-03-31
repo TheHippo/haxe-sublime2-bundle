@@ -1,6 +1,5 @@
 <snippet>
-    <content><![CDATA[interface ${1:interface_name}
-{
+    <content><![CDATA[interface ${1:interface_name} {
     ${0:$TM_SELECTED_TEXT}	
 }]]></content>
     <tabTrigger>interface</tabTrigger>
